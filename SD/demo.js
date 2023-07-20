@@ -1,0 +1,1 @@
+var a="a sentence of all";
