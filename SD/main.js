@@ -6,5 +6,7 @@ export default App = () => {
 
     const result_3="update";
 
+    const az="this is an execise.";
+
     return 'arcgis';
 }
